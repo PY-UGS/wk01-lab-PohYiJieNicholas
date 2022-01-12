@@ -2,7 +2,7 @@ public class Main {
 
     public static void main(String[] args) {
     //Example 1
-	System.out.println("Hello, I am Poh Yi Jie Nicholas");
+	System.out.println("Hello, I am Poh Yi Jie Nicholas!");
     //Example 3
     String module = "CSC1009";
     switch(module)
