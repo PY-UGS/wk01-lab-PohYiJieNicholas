@@ -30,8 +30,10 @@ public class Main {
 
     //Example 4
         for(int x = 102; x > 65; x = x-1){
-            System.out.println("value of x : " + x);
-            System.out.println("\n");
+		if(x % 2 == 1){
+			System.out.println("value of x : " + x);
+            		System.out.println("\n");
+		}
         }
     }
 }
